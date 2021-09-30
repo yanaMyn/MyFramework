@@ -49,11 +49,19 @@
 		67F907C92705628F00405B34 /* MyFrameWork */ = {
 			isa = PBXGroup;
 			children = (
+				67F907DB27056C4A00405B34 /* Classes */,
 				67F907CA2705628F00405B34 /* MyFrameWork.h */,
 				67F907CB2705628F00405B34 /* MyFrameWork.docc */,
-				67F907D3270562AE00405B34 /* Hello.swift */,
 			);
 			path = MyFrameWork;
+			sourceTree = "<group>";
+		};
+		67F907DB27056C4A00405B34 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				67F907D3270562AE00405B34 /* Hello.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
